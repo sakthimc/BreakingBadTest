@@ -1,0 +1,6 @@
+setups\Capabilities.class
+stepDefinitions\MyStepdefs.class
+pageobjects\BreakingBadPageObjects.class
+pageobjects\SearchResultsPageObjects.class
+pageobjects\CharacterProfilePageObjects.class
+Runner.class
